@@ -1,3 +1,3 @@
-## Circle in Movement
+## Circles in Movement
 
 Simple movement simulation with javascript.
